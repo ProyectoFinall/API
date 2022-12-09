@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{217D0A50-735A-4C8D-A4BA-B30808D96653}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="multiconstrucciones-api/Controllers/VigaController.cs">
+    <Files>
+      <File FileName="multiconstrucciones-api/Controllers/ObraController.cs" Line="31" Column="17" />
+      <File FileName="multiconstrucciones-api/Models/Obra.cs" Line="1" Column="1" />
+      <File FileName="multiconstrucciones-api/Program.cs" Line="22" Column="4" />
+      <File FileName="multiconstrucciones-api/Models/Proceso_Detalle.cs" Line="13" Column="20" />
+      <File FileName="multiconstrucciones-api/Controllers/VigaController.cs" Line="119" Column="18" />
+      <File FileName="multiconstrucciones-api/Models/Viga.cs" Line="29" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="multiconstrucciones-api" expanded="True">
+            <Node name="multiconstrucciones-api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.multiconstrucciones-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
